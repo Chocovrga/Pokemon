@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:47 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:50 +0000"
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-01-27 04:10:46 +0000"
@@ -554,6 +572,12 @@
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-27 03:42:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -733,6 +757,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -1000,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-01-27 03:26:46 +0000"
@@ -1060,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-27 04:00:18 +0000"
@@ -1071,6 +1119,12 @@
       "has_stick": "2025-01-27 03:20:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-01-27 05:06:57 +0000"
+    },
+    "done": false
   },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
@@ -1189,6 +1243,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -1330,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 03:30:59 +0000"
@@ -1417,6 +1483,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -1510,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-27 03:30:55 +0000"
@@ -1531,6 +1609,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-27 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -2101,6 +2185,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-01-27 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
     },
     "done": true
   },
@@ -3573,6 +3663,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-01-27 03:17:33 +0000"
@@ -3933,6 +4029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-27 04:59:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:47 +0000"
@@ -4264,7 +4366,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mushroom_stew": "2025-01-27 04:00:18 +0000"
+      "mushroom_stew": "2025-01-27 04:00:18 +0000",
+      "carrot": "2025-01-27 05:07:15 +0000"
     },
     "done": false
   },

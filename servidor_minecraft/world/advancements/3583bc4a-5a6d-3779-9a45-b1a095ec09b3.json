@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 05:06:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-01-27 03:25:13 +0000"
@@ -345,6 +351,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-27 03:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-27 05:06:19 +0000"
     },
     "done": true
   },
@@ -573,6 +585,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-01-27 03:53:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 05:06:08 +0000"
     },
     "done": true
   },
@@ -1147,6 +1165,12 @@
       "has_stick": "2025-01-27 03:20:23 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-01-27 05:06:36 +0000"
+    },
+    "done": false
   },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
@@ -1838,6 +1862,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-27 05:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-27 04:16:25 +0000"
@@ -2411,6 +2441,12 @@
   "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-27 05:06:19 +0000"
     },
     "done": true
   },
@@ -3003,6 +3039,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-01-27 05:02:01 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_castle": "2025-01-27 03:45:01 +0000"
@@ -3018,6 +3060,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 05:06:08 +0000"
     },
     "done": true
   },
@@ -3509,6 +3557,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 03:25:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 05:06:08 +0000"
     },
     "done": true
   },
@@ -4136,6 +4190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-27 05:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-01-27 04:51:52 +0000"
@@ -4635,6 +4695,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 05:06:08 +0000"
     },
     "done": true
   },
