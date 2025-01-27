@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-01-27 03:20:11 +0000"
@@ -83,9 +89,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-01-27 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -140,6 +158,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -236,6 +260,18 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-27 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-27 03:36:45 +0000"
     },
     "done": true
   },
@@ -354,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-01-27 03:20:11 +0000"
@@ -381,6 +423,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_spruce_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -444,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2025-01-27 03:20:11 +0000"
@@ -501,6 +555,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 03:25:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -684,6 +744,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 03:22:29 +0000"
@@ -726,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-27 03:25:13 +0000"
@@ -735,6 +807,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-27 03:36:45 +0000"
     },
     "done": true
   },
@@ -852,6 +930,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
@@ -888,6 +972,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-01-27 03:25:13 +0000"
@@ -897,6 +987,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-27 03:33:04 +0000"
     },
     "done": true
   },
@@ -918,9 +1014,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_seat": {
     "criteria": {
       "has_plank": "2025-01-27 03:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -963,6 +1071,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-27 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
     },
     "done": true
   },
@@ -1017,6 +1131,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -1080,9 +1200,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-27 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
     },
     "done": true
   },
@@ -1101,6 +1233,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -1134,6 +1272,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
@@ -1149,6 +1293,18 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-27 03:33:04 +0000"
     },
     "done": true
   },
@@ -1194,6 +1350,13 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000",
+      "has_the_recipe": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
@@ -1230,6 +1393,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_seat": {
     "criteria": {
       "has_plank": "2025-01-27 03:20:11 +0000"
@@ -1239,6 +1408,18 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -1281,6 +1462,18 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -1350,6 +1543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-01-27 03:19:51 +0000"
@@ -1371,6 +1570,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-01-27 03:25:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -1462,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-27 03:19:51 +0000"
@@ -1546,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 03:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 03:25:23 +0000"
@@ -1573,6 +1790,12 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-01-27 03:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -1672,6 +1895,12 @@
     },
     "done": true
   },
+  "apollyon:it_has_begun": {
+    "criteria": {
+      "it_has_begun": "2025-01-27 03:41:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
@@ -1708,6 +1937,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
@@ -1717,6 +1958,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -1741,6 +1988,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-01-27 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -1882,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 03:19:51 +0000"
@@ -1891,6 +2150,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -1921,6 +2186,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -2014,9 +2285,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 03:37:05 +0000"
     },
     "done": true
   },
@@ -2074,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-01-27 03:20:11 +0000"
@@ -2089,6 +2378,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-01-27 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 03:42:33 +0000"
     },
     "done": true
   },
@@ -2127,7 +2422,9 @@
       "minecraft:taiga": "2025-01-27 03:22:39 +0000",
       "minecraft:frozen_river": "2025-01-27 03:25:39 +0000",
       "minecraft:stony_shore": "2025-01-27 03:22:46 +0000",
-      "minecraft:grove": "2025-01-27 03:18:15 +0000"
+      "minecraft:snowy_taiga": "2025-01-27 03:38:12 +0000",
+      "minecraft:grove": "2025-01-27 03:18:15 +0000",
+      "minecraft:frozen_ocean": "2025-01-27 03:41:20 +0000"
     },
     "done": false
   },
@@ -2233,6 +2530,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-27 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-27 03:42:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 03:20:23 +0000"
@@ -2272,6 +2581,18 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-01-27 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-27 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-27 03:41:57 +0000"
     },
     "done": true
   },
