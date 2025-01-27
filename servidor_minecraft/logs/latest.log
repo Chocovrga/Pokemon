@@ -4369,3 +4369,16 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [27Jan2025 04:17:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [We Need to Go Deeper]
 [27Jan2025 04:17:10.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6126ms or 122 ticks behind
 [27Jan2025 04:17:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [We Need to Go Deeper]
+[27Jan2025 04:18:00.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[27Jan2025 04:18:08.279] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: dungeons_enhanced:bridge
+[27Jan2025 04:19:15.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=91, z=-599} BlockPos{x=56, y=92, z=-599}
+[27Jan2025 04:20:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has reached the goal [Feeling Watched]
+[27Jan2025 04:21:24.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[27Jan2025 04:22:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Take Aim]
+[27Jan2025 04:23:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has reached the goal [Feeling Watched]
+[27Jan2025 04:24:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was doomed to fall by Spider Funnel
+[27Jan2025 04:24:11.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina withered away
+[27Jan2025 04:25:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has completed the challenge [+PARRY]
+[27Jan2025 04:25:22.718] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-80, y=63, z=-616}
+[27Jan2025 04:27:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[27Jan2025 04:27:42.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [First big catch of the month!]
