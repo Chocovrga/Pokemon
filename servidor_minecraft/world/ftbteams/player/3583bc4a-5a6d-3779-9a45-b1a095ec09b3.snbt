@@ -1,0 +1,17 @@
+{
+	id: "3583bc4a-5a6d-3779-9a45-b1a095ec09b3"
+	type: "player"
+	player_name: "MaxiMOF53"
+	ranks: {
+		3583bc4a-5a6d-3779-9a45-b1a095ec09b3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MaxiMOF53"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

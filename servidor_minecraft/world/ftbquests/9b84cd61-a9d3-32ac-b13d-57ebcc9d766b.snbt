@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9b84cd61a9d332acb13d57ebcc9d766b"
+	name: "Chocolina#9b84cd61"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

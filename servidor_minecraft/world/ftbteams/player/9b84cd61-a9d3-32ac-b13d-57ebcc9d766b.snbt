@@ -1,0 +1,17 @@
+{
+	id: "9b84cd61-a9d3-32ac-b13d-57ebcc9d766b"
+	type: "player"
+	player_name: "Chocolina"
+	ranks: {
+		9b84cd61-a9d3-32ac-b13d-57ebcc9d766b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Chocolina"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
