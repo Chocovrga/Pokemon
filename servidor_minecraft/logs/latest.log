@@ -4387,3 +4387,4 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [27Jan2025 04:33:51.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [Dark Metallurgy]
 [27Jan2025 04:33:57.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Dark Metallurgy]
 [27Jan2025 04:37:13.668] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jan2025 04:49:54.716] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=133, y=68, z=-287}

@@ -1270,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 04:51:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 03:30:59 +0000"
@@ -1315,6 +1321,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-27 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 04:51:30 +0000"
     },
     "done": true
   },
@@ -2323,6 +2335,12 @@
   "decorative_blocks:recipes/building_blocks/cherry_palisade": {
     "criteria": {
       "has_log": "2025-01-27 03:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-27 04:52:43 +0000"
     },
     "done": true
   },
@@ -4445,6 +4463,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 04:51:30 +0000"
     },
     "done": true
   },
