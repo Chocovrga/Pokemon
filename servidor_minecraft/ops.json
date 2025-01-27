@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "9b84cd61-a9d3-32ac-b13d-57ebcc9d766b",
+    "name": "Chocolina",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3583bc4a-5a6d-3779-9a45-b1a095ec09b3",
+    "name": "MaxiMOF53",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6f99075b-b2e0-32cb-90c8-cd42d8504b86",
+    "name": "m",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
