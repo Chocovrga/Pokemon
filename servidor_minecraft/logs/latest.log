@@ -4361,3 +4361,11 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [27Jan2025 04:01:12.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Chocolina
 [27Jan2025 04:02:41.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Corpse Maggot
 [27Jan2025 04:06:40.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Zombie
+[27Jan2025 04:09:11.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chocolina moved wrongly!
+[27Jan2025 04:11:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [Ice Bucket Challenge]
+[27Jan2025 04:12:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [Who is Cutting Onions?]
+[27Jan2025 04:13:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [Bypassing the Expiration Date]
+[27Jan2025 04:14:04.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Bypassing the Expiration Date]
+[27Jan2025 04:17:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [We Need to Go Deeper]
+[27Jan2025 04:17:10.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6126ms or 122 ticks behind
+[27Jan2025 04:17:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [We Need to Go Deeper]
