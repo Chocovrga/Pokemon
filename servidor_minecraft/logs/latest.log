@@ -4174,3 +4174,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Jan2025 03:00:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Life turned out to be a comedy]
 [30Jan2025 03:01:41.613] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=505, y=77, z=-1367}
 [30Jan2025 03:02:41.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Cave Dweller
+[30Jan2025 03:08:42.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 03:10:50.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
