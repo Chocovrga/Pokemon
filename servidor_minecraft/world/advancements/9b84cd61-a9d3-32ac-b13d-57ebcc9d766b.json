@@ -1784,7 +1784,8 @@
       "minecraft:spider": "2025-01-27 03:59:28 +0000",
       "minecraft:cave_spider": "2025-01-30 03:09:58 +0000",
       "minecraft:vex": "2025-01-27 04:30:24 +0000",
-      "minecraft:zombie": "2025-01-27 03:28:08 +0000"
+      "minecraft:zombie": "2025-01-27 03:28:08 +0000",
+      "minecraft:zombie_villager": "2025-01-30 03:18:39 +0000"
     },
     "done": false
   },

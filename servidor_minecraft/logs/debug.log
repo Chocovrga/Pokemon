@@ -7658,3 +7658,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Jan2025 03:10:11.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 03:10:12.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 03:10:50.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[30Jan2025 03:13:06.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaxiMOF53: Teleported MaxiMOF53 to Chocolina]
+[30Jan2025 03:15:14.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 03:15:14.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:17:14.263] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=506, y=62, z=-1554}
+[30Jan2025 03:19:17.662] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Jan2025 03:20:14.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 03:20:14.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:20:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina was shot by MaxiMOF53
+[30Jan2025 03:20:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 03:20:59.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has reached the goal [Dark Creator]
