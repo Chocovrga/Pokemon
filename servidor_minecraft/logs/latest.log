@@ -4163,3 +4163,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Jan2025 02:46:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
 [30Jan2025 02:48:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Stay dead]
 [30Jan2025 02:50:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaxiMOF53: Teleported MaxiMOF53 to Chocolina]
+[30Jan2025 02:54:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Deceived Hopes]
+[30Jan2025 02:54:57.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina has made the advancement [Deceived Hopes]
+[30Jan2025 02:55:08.363] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=580, y=111, z=-1353}
+[30Jan2025 02:55:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Cave Dweller
+[30Jan2025 02:57:27.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 02:58:04.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chocolina moved too quickly! -0.702790619212351,0.7508129212553188,9.991173278798215
+[30Jan2025 02:58:04.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[30Jan2025 02:59:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 03:00:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Life turned out to be a comedy]
+[30Jan2025 03:01:41.613] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=505, y=77, z=-1367}
+[30Jan2025 03:02:41.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Cave Dweller
