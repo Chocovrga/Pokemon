@@ -4106,3 +4106,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Jan2025 02:14:37.220] [Server thread/INFO] [FTB Quests/]: Loaded 7 chapter groups, 2 chapters, 37 quests, 0 reward tables
 [30Jan2025 02:14:37.241] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [30Jan2025 02:14:37.268] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[30Jan2025 02:21:54.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaxiMOF53[/100.84.182.64:49402] logged in with entity id 71 at (151.738924226751, 60.0, -361.9805421889868)
+[30Jan2025 02:21:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 joined the game
+[30Jan2025 02:22:01.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaxiMOF53 (18)
+[30Jan2025 02:22:01.828] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaxiMOF53
+[30Jan2025 02:22:01.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7145ms or 142 ticks behind
+[30Jan2025 02:22:02.194] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3583bc4a-5a6d-3779-9a45-b1a095ec09b3
+[30Jan2025 02:22:03.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3583bc4a-5a6d-3779-9a45-b1a095ec09b3
+[30Jan2025 02:22:03.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MaxiMOF53 (3583bc4a-5a6d-3779-9a45-b1a095ec09b3) successfully connected to voice chat
+[30Jan2025 02:22:07.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chocolina[/100.98.229.16:52179] logged in with entity id 238 at (151.59291163289026, 60.0, -362.4991142225708)
+[30Jan2025 02:22:07.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina joined the game
+[30Jan2025 02:22:10.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chocolina (18)
+[30Jan2025 02:22:10.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chocolina
+[30Jan2025 02:22:20.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9b84cd61-a9d3-32ac-b13d-57ebcc9d766b
+[30Jan2025 02:22:21.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9b84cd61-a9d3-32ac-b13d-57ebcc9d766b
+[30Jan2025 02:22:21.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chocolina (9b84cd61-a9d3-32ac-b13d-57ebcc9d766b) successfully connected to voice chat
+[30Jan2025 02:22:23.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
+[30Jan2025 02:23:41.115] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=181, y=65, z=-256}
+[30Jan2025 02:29:56.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[30Jan2025 02:30:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> You shouldn't be here.
+[30Jan2025 02:30:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I am to succumb to this infection soon.
+[30Jan2025 02:31:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Persistent, aren't you?
+[30Jan2025 02:31:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Well, if you want to hear how I ended up like this, then stay.
+[30Jan2025 02:31:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But if this infection takes me over, I want you to kill me.
+[30Jan2025 02:31:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Oh well, alright.
+[30Jan2025 02:31:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Not very long ago, there was another player, just like you.
+[30Jan2025 02:31:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I gave him the name "Villager #1202".
+[30Jan2025 02:31:29.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But I quicky found that he was... different.
+[30Jan2025 02:31:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> There would be times where he would smile so wide, it looked like it hurt.
+[30Jan2025 02:31:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> He would always stare into space, with manic eyes.
+[30Jan2025 02:31:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I took him under my wing, and he became a member of the now abandoned Council.
