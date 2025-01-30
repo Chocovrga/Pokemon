@@ -148,6 +148,7 @@
       "minecraft:taiga": "2025-01-27 03:22:53 +0000",
       "minecraft:frozen_river": "2025-01-27 03:25:39 +0000",
       "minecraft:stony_shore": "2025-01-27 03:27:14 +0000",
+      "minecraft:snowy_plains": "2025-01-30 02:35:08 +0000",
       "minecraft:snowy_taiga": "2025-01-27 03:38:48 +0000",
       "minecraft:grove": "2025-01-27 03:17:36 +0000",
       "minecraft:frozen_ocean": "2025-01-27 03:41:19 +0000"
@@ -1483,6 +1484,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "snowblossom_grove": "2025-01-27 03:27:12 +0000",
+      "cold_desert": "2025-01-30 02:32:53 +0000",
       "old_growth_dead_forest": "2025-01-27 03:23:41 +0000",
       "snowy_coniferous_forest": "2025-01-27 03:26:40 +0000",
       "snowy_fir_clearing": "2025-01-27 03:26:49 +0000",
@@ -4642,6 +4644,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-30 02:35:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-30 02:35:25 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-01-30 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-30 02:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-30 02:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-30 02:35:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-30 02:29:42 +0000"
@@ -4651,6 +4689,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-30 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-30 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-30 02:35:25 +0000"
     },
     "done": true
   },
