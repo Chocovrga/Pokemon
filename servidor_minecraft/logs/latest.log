@@ -4153,3 +4153,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Jan2025 02:40:21.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaxiMOF53 moved too quickly! 0.8118641083018474,-1.756759288177264,-10.214855519025832
 [30Jan2025 02:41:50.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
 [30Jan2025 02:42:03.616] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=681, y=71, z=-1290}
+[30Jan2025 02:45:15.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was impaled on a stalagmite
+[30Jan2025 02:45:37.713] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=577, y=115, z=-1381}
+[30Jan2025 02:45:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina was slain by Door Knight
+[30Jan2025 02:45:56.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[30Jan2025 02:46:06.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 was slain by Spider
+[30Jan2025 02:46:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 02:46:21.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chocolina was doomed to fall by Door Knight
+[30Jan2025 02:46:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chocolina: Teleported Chocolina to MaxiMOF53]
+[30Jan2025 02:48:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiMOF53 has made the advancement [Stay dead]
+[30Jan2025 02:50:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaxiMOF53: Teleported MaxiMOF53 to Chocolina]

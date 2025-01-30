@@ -150,6 +150,7 @@
       "minecraft:stony_shore": "2025-01-27 03:27:14 +0000",
       "minecraft:snowy_plains": "2025-01-30 02:35:08 +0000",
       "minecraft:snowy_taiga": "2025-01-27 03:38:48 +0000",
+      "minecraft:dripstone_caves": "2025-01-30 02:44:58 +0000",
       "minecraft:grove": "2025-01-27 03:17:36 +0000",
       "minecraft:frozen_ocean": "2025-01-27 03:41:19 +0000"
     },
@@ -1485,6 +1486,7 @@
     "criteria": {
       "snowblossom_grove": "2025-01-27 03:27:12 +0000",
       "cold_desert": "2025-01-30 02:32:53 +0000",
+      "spider_nest": "2025-01-30 02:45:00 +0000",
       "old_growth_dead_forest": "2025-01-27 03:23:41 +0000",
       "snowy_coniferous_forest": "2025-01-27 03:26:40 +0000",
       "snowy_fir_clearing": "2025-01-27 03:26:49 +0000",
@@ -4650,6 +4652,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:47:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-30 02:35:25 +0000"
@@ -4689,6 +4703,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-30 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:47:40 +0000"
     },
     "done": true
   },

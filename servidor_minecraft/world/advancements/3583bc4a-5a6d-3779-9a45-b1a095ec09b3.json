@@ -24,6 +24,7 @@
       "minecraft:stony_shore": "2025-01-27 03:22:46 +0000",
       "minecraft:snowy_plains": "2025-01-30 02:34:50 +0000",
       "minecraft:snowy_taiga": "2025-01-27 03:38:12 +0000",
+      "minecraft:dripstone_caves": "2025-01-30 02:45:15 +0000",
       "minecraft:grove": "2025-01-27 03:18:15 +0000",
       "minecraft:frozen_ocean": "2025-01-27 03:41:20 +0000"
     },
@@ -1744,6 +1745,7 @@
       "muskeg": "2025-01-27 04:37:23 +0000",
       "snowblossom_grove": "2025-01-27 03:27:12 +0000",
       "cold_desert": "2025-01-30 02:32:57 +0000",
+      "spider_nest": "2025-01-30 02:45:36 +0000",
       "old_growth_dead_forest": "2025-01-27 03:23:48 +0000",
       "snowy_coniferous_forest": "2025-01-27 03:26:40 +0000",
       "snowy_fir_clearing": "2025-01-27 03:26:48 +0000",
@@ -4845,6 +4847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:46:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-30 02:30:06 +0000"
@@ -4887,9 +4895,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-30 02:48:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-30 02:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:46:42 +0000"
     },
     "done": true
   },
@@ -4953,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 02:46:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-30 02:30:06 +0000"
@@ -4968,6 +4994,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-01-30 02:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-30 02:45:32 +0000"
     },
     "done": true
   },
